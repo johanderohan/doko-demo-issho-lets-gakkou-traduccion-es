@@ -32,6 +32,10 @@ depurador. No equivale a una partida completa desde principio a fin.
 El parche se ha reaplicado al original y el resultado se ha comparado byte por byte con la candidata.
 La auditoría de la ISO comprueba los 175 guiones, recursos, límites de memoria y referencias del ejecutable,
 incluida la simulación de carga en varias direcciones. Las pruebas negativas detectan referencias ausentes.
+La última pasada dirigida usa la imagen exacta del parche: título, nombre español, carga real, mapa y
+horario, cabecera de afición, navegador, tutorial de recompensa y descripción de disfraces. También se
+ha probado el guardado y la carga entre distintas direcciones del ejecutable.
+
 No se ha probado en PSP real ni en PS Vita con Adrenaline.
 
 Limitaciones conocidas:
@@ -40,6 +44,7 @@ Limitaciones conocidas:
 - Las lecturas largas en mayúsculas pueden ocupar dos líneas en los combates de palabras.
 - El logotipo, determinados letreros de ambientación y nombres de los créditos permanecen como en el original.
 - El vídeo extra se conserva sin traducir.
+- La placa «Buscar ruta» de la carcasa del navegador queda parcialmente fuera de pantalla por el encuadre original.
 - Los servicios de Internet desaparecidos no se restauran. Los modos de red no se han probado entre consolas.
 - El ejecutable que recibe otra PSP mediante «Compartir juego» queda fuera de la adaptación de letras españolas.
 
