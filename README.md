@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/psp/doko-demo-issho-lets-gakkou)**.
+
 Traducción al **español de España**, directamente desde el japonés, de *Doko Demo Issho: Let's Gakkou!*.
 Te conviertes en profe de Toro y las demás pokepis: les enseñas palabras, participas en las clases y
 actividades del colegio y las acompañas durante el curso, hasta la graduación.
